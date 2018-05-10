@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="file://D:/kafka_2.11-1.0.1/libs" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://D:/kafka_2.11-1.0.1/libs" />
+    </SOURCES>
+    <jarDirectory url="file://D:/kafka_2.11-1.0.1/libs" recursive="false" />
+    <jarDirectory url="file://D:/kafka_2.11-1.0.1/libs" recursive="false" type="SOURCES" />
+  </library>
+</component>
